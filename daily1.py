@@ -161,7 +161,7 @@ numpy.array([list1])
 import numpy as np #np is alias
 np1 = np.arange(1,10)
 np1
-
+dir()
 x=np.arange(start=1,stop=1000000,step=2)
 len(x)
 x[1:100]
